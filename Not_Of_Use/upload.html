@@ -1,0 +1,48 @@
+<head>
+<title>Create New Post</title>
+<link rel="stylesheet" type="text/css" href="notice-board.css" /> 
+</head>
+<body>
+	<div id="container">
+	
+	
+	<div id="header">
+	
+	<h1>Create New Post</h1>
+	
+	</div>
+	
+	<div id="main">
+	<div id="sidebar">
+	<ul type=none>
+	
+	<li><a href="homepage-login.html">Home</a></li>
+	<li><a href="create_post.php">Create a Post</a></li>
+	<li>About</li>
+	<li>Contact Us</li>
+	</div>
+	
+
+	<div id="content">
+	<p><font face="Imprint MT Shadow" size="5" color="blue"><center>Hi! Here You can Create A New Post!<br>Your Post can consist of either of the following:</center>
+	<ul>
+	<li>Text</li>
+	<li>Image</li>
+	</ul>
+	<br>
+	Your Text May Contain Contact Info, Venue, Date, etc, Or You can just cover it up in the Image. </p>
+	<form enctype="multipart/form-data" action="create_post.php" method="post" align="center">
+	<textarea name="post_text" rows=5 cols=100>
+	</textarea>
+	<br>
+	
+    Select image to upload:
+    <input type="file" name="fileToUpload" id="fileToUpload">
+	<input type="submit" value="Submit Image!" name="submit" align="right">
+	</form>
+
+	</div>
+	</div>
+	</div>
+	
+</body>

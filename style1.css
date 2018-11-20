@@ -1,0 +1,13 @@
+#container {
+margin-left:auto;
+margin-right:auto;
+background-image:"bricks.jpg";
+
+}
+#header {
+text-align:center;
+font-family:"Comic Sans MS", cursive, sans-serif;
+font-color:"red";
+color: red;
+background-color:#00FFFF;
+}

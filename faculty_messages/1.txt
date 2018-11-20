@@ -1,0 +1,27 @@
+C1,C2,C3,C4,C5,C6
+(txt)
+Apr-19-2016<br> 12:33 PM
+user1
+<pre>fgfdvad</pre>
+----------------------------------------------------------
+IBM-2,IBM-3,C7,C9
+(txt)
+Apr-19-2016<br> 7:57 AM
+user
+<pre>this is post for ibm-2,ibm-3,c7,c9</pre>
+----------------------------------------------------------
+ALL
+(img)
+Apr-19-2016<br> 7:57 AM
+user
+<pre></pre>
+20-colorful-wallpaper.jpg
+----------------------------------------------------------
+IBM-1,IBM-4
+(both)
+Apr-19-2016<br> 7:57 AM
+user
+<pre>this is post for 
+ibm-1 and ibm-4</pre>
+2012_vorsteiner_lamborghini_gallardo-1920x1080.jpg
+----------------------------------------------------------

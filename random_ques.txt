@@ -1,0 +1,4 @@
+1-Who is known as the Father of PHP?-Rasmus Lerdorf
+2-What does PHP stand for?-Hypertext Pre Processor
+3-Full Form of ASCII?-American Standard Code for Information Interchange
+4-A malfunction due to an error in the program or a defect in the equipment is called ?-BUG

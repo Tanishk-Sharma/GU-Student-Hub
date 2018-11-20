@@ -1,0 +1,17 @@
+(both)
+Apr-19-2016<br> 8:00 AM
+user
+<pre>my personal post containing both text and images! :D</pre>
+16.jpg
+----------------------------------------------------------
+(img)
+Apr-19-2016<br> 7:58 AM
+user
+<pre></pre>
+TOPICS!!!.jpg
+----------------------------------------------------------
+(txt)
+Apr-19-2016<br> 7:58 AM
+user
+<pre>my first personal post....</pre>
+----------------------------------------------------------
